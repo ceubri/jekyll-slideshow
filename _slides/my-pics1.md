@@ -10,9 +10,5 @@ loop: true
 * ![Another nice pic of mine](my-pics1/pic_02.jpg)
 * ![Another nice pic of mine](my-pics1/pic_03.jpg)
 * ![Another nice pic of mine](my-pics1/pic_04.jpg)
-* # A text slide
-  This is a demo of the [Jekyll Gallery](http://lexoyo.me/jekyll-slideshow/).
-  
-  Pictures from pexels
-
+* * ![Another nice pic of mine](my-pics1/pic_05.jpg)
 
