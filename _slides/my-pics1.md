@@ -5,7 +5,7 @@ item: 1
 auto: true
 loop: true
 speed: 1200
-pause: 2000
+pause: 4000
 keyPress: true
 ---
 
