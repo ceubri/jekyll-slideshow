@@ -2,7 +2,7 @@
 layout: iframe
 title: My slideshow
 item: 1
-auto: true
+auto: false
 loop: true
 speed: 1200
 keyPress: true
