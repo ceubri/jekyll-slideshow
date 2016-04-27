@@ -5,6 +5,7 @@ item: 1
 auto: true
 loop: true
 speed: 1200
+keyPress: true
 ---
 
 * ![A nice pic of mine](my-pics1/pic_01.jpg)
